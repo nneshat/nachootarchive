@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+    <link rel="stylesheet" href="css/style.css"> <!-- Link to your CSS file -->
+</head>
+<body>
+    <p><a href="https://www.anthonychristopherart.com/prints">Anthony Christopher</a> </p>
+    <p><a href="https://www.arghavankhosravi.com/">Arghavan Khosravi</a> </p>
+    <p><a href="https://shahrzadjahan.com/">Shahrzad Jahan </a> </p>
+
+</body>
+</html>
